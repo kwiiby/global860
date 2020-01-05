@@ -258,9 +258,9 @@ accountManager = false
     experienceStages = true
     rateExperience = 150
     rateExperienceFromPlayers = 0
-    rateSkill = 30
-    rateMagic = 20
-    rateLoot = 3
+    rateSkill = 20
+    rateMagic = 7
+    rateLoot = 2
     rateSpawnMin = 1
     rateSpawnMax = 1
 
