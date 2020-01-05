@@ -2,7 +2,7 @@
  ulimit -c unlimited
 
 while true; do
-  ./theforgottenserver > data/logs/output.log &
+  ./tfs > data/logs/output.log &
   PID=$!
   echo $PID > theforgottenserver.pid
   wait $PID
