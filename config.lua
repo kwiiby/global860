@@ -1,4 +1,4 @@
-accountManager = true
+accountManager = false
     namelockManager = false
     newPlayerChooseVoc = true
     newPlayerSpawnPosX = 32369	
@@ -82,7 +82,7 @@ accountManager = true
 
 
     worldId = 0
-    ip = "0.0.0.0"
+    ip = "34.95.175.83"
     bindOnlyGlobalAddress = false
     loginPort = 7171
     gamePort = "7172"
@@ -94,8 +94,8 @@ accountManager = true
     displayOnOrOffAtCharlist = false
     onePlayerOnlinePerAccount = true
     allowClones = 0
-    serverName = "NOMEDOOT"
-    loginMessage = "Espero que sua jornada no servidor seja uma constante alegria.!"
+    serverName = "TORMENTA OT"
+    loginMessage = "Espero que sua jornada no servidor seja repleta de emoções.. TORMENTA OT"
     statusTimeout = 5 * 60 * 1000
     replaceKickOnLogin = true
     forceSlowConnectionsToDisconnect = false
@@ -114,9 +114,9 @@ accountManager = true
     sqlType = "mysql"
     sqlHost = "localhost"
     sqlPort = 3306
-    sqlUser = "root"
-    sqlPass = "trocar123"
-    sqlDatabase = "global860"
+    sqlUser = "kwiiby"
+    sqlPass = "kwiiby123"
+    sqlDatabase = "global"
     sqlFile = ""
     sqlKeepAlive = 0
     mysqlReadTimeout = 10
@@ -163,7 +163,7 @@ accountManager = true
 
 
     mapName = "world.otbm"
-    mapAuthor = "ChaitoSoft.com [CHADUKA MAPPER]"
+    mapAuthor = "TORMENTA"
     randomizeTiles = true
     storeTrash = true
     cleanProtectedZones = true

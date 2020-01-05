@@ -103,3 +103,161 @@
 [27/5/2014 2:17:48] >> Everything smells good, server is starting up...
 [27/5/2014 2:17:49] >> NOMEDOOT server Online!
 
+[5/1/2020 1:4:1] > Using SHA1 encryption
+[5/1/2020 1:4:1] >> Checking software version...
+[5/1/2020 1:4:1] > Ignoring version check, using SVN
+[5/1/2020 1:4:1] >> Loading RSA key
+[5/1/2020 1:4:1] > Calculating dmp1, dmq1 and iqmp for RSA... done
+[5/1/2020 1:4:1] >> Starting SQL connection
+[5/1/2020 1:4:1] >> Running Database Manager
+[5/1/2020 1:4:1] > No tables were optimized.
+[5/1/2020 1:4:1] >> Loading items (OTB)
+[5/1/2020 1:4:1] >> Loading items (XML)
+[5/1/2020 1:4:1] >> Loading groups
+[5/1/2020 1:4:1] >> Loading vocations
+[5/1/2020 1:4:1] >> Loading outfits
+[5/1/2020 1:4:1] >> Loading chat channels
+[5/1/2020 1:4:1] >> Loading script systems
+[5/1/2020 1:4:1] > Loading weapons... [Warning - Weapons::registerEvent] Duplicate registered item with id: 0
+[5/1/2020 1:4:1] done.
+[5/1/2020 1:4:1] > Preparing weapons... done.
+[5/1/2020 1:4:2] > Loading spells... done.
+[5/1/2020 1:4:6] > Loading actions... done.
+[5/1/2020 1:4:7] > Loading talkactions... done.
+[5/1/2020 1:4:10] > Loading movements... done.
+[5/1/2020 1:4:10] > Loading creaturescripts... done.
+[5/1/2020 1:4:10] > Loading globalscripts... done.
+[5/1/2020 1:4:10] >> Loading mods...
+[5/1/2020 1:4:10] > Loading fragremover.xml... done, but disabled.
+[5/1/2020 1:4:10] > Loading custommonsters.xml... done.
+[5/1/2020 1:4:10] > 2 mods were loaded (1 disabled).
+[5/1/2020 1:4:10] >> Loading experience stages
+[5/1/2020 1:4:10] >> Loading quests
+[5/1/2020 1:4:10] >> Loading monsters
+[5/1/2020 1:4:11] >> Loading raids
+[5/1/2020 1:4:11] >> Loading map and spawns...
+[5/1/2020 1:4:11] > FATAL: OTBM Loader - Could not open the file data/world/world.otbm.
+[5/1/2020 1:5:13] > Using SHA1 encryption
+[5/1/2020 1:5:13] >> Checking software version...
+[5/1/2020 1:5:13] > Ignoring version check, using SVN
+[5/1/2020 1:5:13] >> Loading RSA key
+[5/1/2020 1:5:13] > Calculating dmp1, dmq1 and iqmp for RSA... done
+[5/1/2020 1:5:13] >> Starting SQL connection
+[5/1/2020 1:5:13] >> Running Database Manager
+[5/1/2020 1:5:13] > No tables were optimized.
+[5/1/2020 1:5:13] >> Loading items (OTB)
+[5/1/2020 1:5:13] >> Loading items (XML)
+[5/1/2020 1:5:13] >> Loading groups
+[5/1/2020 1:5:13] >> Loading vocations
+[5/1/2020 1:5:13] >> Loading outfits
+[5/1/2020 1:5:13] >> Loading chat channels
+[5/1/2020 1:5:13] >> Loading script systems
+[5/1/2020 1:5:14] > Loading weapons... [Warning - Weapons::registerEvent] Duplicate registered item with id: 0
+[5/1/2020 1:5:14] done.
+[5/1/2020 1:5:14] > Preparing weapons... done.
+[5/1/2020 1:5:14] > Loading spells... done.
+[5/1/2020 1:5:19] > Loading actions... done.
+[5/1/2020 1:5:19] > Loading talkactions... done.
+[5/1/2020 1:5:23] > Loading movements... done.
+[5/1/2020 1:5:23] > Loading creaturescripts... done.
+[5/1/2020 1:5:23] > Loading globalscripts... done.
+[5/1/2020 1:5:23] >> Loading mods...
+[5/1/2020 1:5:23] > Loading fragremover.xml... done, but disabled.
+[5/1/2020 1:5:23] > Loading custommonsters.xml... done.
+[5/1/2020 1:5:23] > 2 mods were loaded (1 disabled).
+[5/1/2020 1:5:23] >> Loading experience stages
+[5/1/2020 1:5:23] >> Loading quests
+[5/1/2020 1:5:23] >> Loading monsters
+[5/1/2020 1:5:23] >> Loading raids
+[5/1/2020 1:5:23] >> Loading map and spawns...
+[5/1/2020 1:5:23] > FATAL: OTBM Loader - Could not open the file data/world/world.otbm.
+[5/1/2020 1:5:35] > Using SHA1 encryption
+[5/1/2020 1:5:35] >> Checking software version...
+[5/1/2020 1:5:35] > Ignoring version check, using SVN
+[5/1/2020 1:5:35] >> Loading RSA key
+[5/1/2020 1:5:35] > Calculating dmp1, dmq1 and iqmp for RSA... done
+[5/1/2020 1:5:35] >> Starting SQL connection
+[5/1/2020 1:5:35] >> Running Database Manager
+[5/1/2020 1:5:35] > No tables were optimized.
+[5/1/2020 1:5:35] >> Loading items (OTB)
+[5/1/2020 1:5:35] >> Loading items (XML)
+[5/1/2020 1:5:35] >> Loading groups
+[5/1/2020 1:5:35] >> Loading vocations
+[5/1/2020 1:5:35] >> Loading outfits
+[5/1/2020 1:5:35] >> Loading chat channels
+[5/1/2020 1:5:35] >> Loading script systems
+[5/1/2020 1:5:35] > Loading weapons... [Warning - Weapons::registerEvent] Duplicate registered item with id: 0
+[5/1/2020 1:5:35] done.
+[5/1/2020 1:5:35] > Preparing weapons... done.
+[5/1/2020 1:5:36] > Loading spells... done.
+[5/1/2020 1:5:41] > Loading actions... done.
+[5/1/2020 1:5:41] > Loading talkactions... done.
+[5/1/2020 1:5:45] > Loading movements... done.
+[5/1/2020 1:5:45] > Loading creaturescripts... done.
+[5/1/2020 1:5:45] > Loading globalscripts... done.
+[5/1/2020 1:5:45] >> Loading mods...
+[5/1/2020 1:5:45] > Loading fragremover.xml... done, but disabled.
+[5/1/2020 1:5:45] > Loading custommonsters.xml... done.
+[5/1/2020 1:5:45] > 2 mods were loaded (1 disabled).
+[5/1/2020 1:5:45] >> Loading experience stages
+[5/1/2020 1:5:45] >> Loading quests
+[5/1/2020 1:5:45] >> Loading monsters
+[5/1/2020 1:5:45] >> Loading raids
+[5/1/2020 1:5:45] >> Loading map and spawns...
+[5/1/2020 1:5:45] > FATAL: OTBM Loader - Could not open the file data/world/world.otbm.
+[5/1/2020 1:6:53] > Using SHA1 encryption
+[5/1/2020 1:6:53] >> Checking software version...
+[5/1/2020 1:6:53] > Ignoring version check, using SVN
+[5/1/2020 1:6:53] >> Loading RSA key
+[5/1/2020 1:6:53] > Calculating dmp1, dmq1 and iqmp for RSA... done
+[5/1/2020 1:6:53] >> Starting SQL connection
+[5/1/2020 1:6:53] >> Running Database Manager
+[5/1/2020 1:6:53] > No tables were optimized.
+[5/1/2020 1:6:53] >> Loading items (OTB)
+[5/1/2020 1:6:53] >> Loading items (XML)
+[5/1/2020 1:6:53] >> Loading groups
+[5/1/2020 1:6:53] >> Loading vocations
+[5/1/2020 1:6:53] >> Loading outfits
+[5/1/2020 1:6:53] >> Loading chat channels
+[5/1/2020 1:6:53] >> Loading script systems
+[5/1/2020 1:6:53] > Loading weapons... [Warning - Weapons::registerEvent] Duplicate registered item with id: 0
+[5/1/2020 1:6:53] done.
+[5/1/2020 1:6:53] > Preparing weapons... done.
+[5/1/2020 1:6:54] > Loading spells... done.
+[5/1/2020 1:6:58] > Loading actions... done.
+[5/1/2020 1:6:59] > Loading talkactions... done.
+[5/1/2020 1:7:2] > Loading movements... done.
+[5/1/2020 1:7:2] > Loading creaturescripts... done.
+[5/1/2020 1:7:2] > Loading globalscripts... done.
+[5/1/2020 1:7:2] >> Loading mods...
+[5/1/2020 1:7:2] > Loading fragremover.xml... done, but disabled.
+[5/1/2020 1:7:2] > Loading custommonsters.xml... done.
+[5/1/2020 1:7:2] > 2 mods were loaded (1 disabled).
+[5/1/2020 1:7:2] >> Loading experience stages
+[5/1/2020 1:7:2] >> Loading quests
+[5/1/2020 1:7:2] >> Loading monsters
+[5/1/2020 1:7:2] >> Loading raids
+[5/1/2020 1:7:2] >> Loading map and spawns...
+[5/1/2020 1:7:5] > Map size: 33536x33024.
+[5/1/2020 1:7:5] > Map descriptions: 
+[5/1/2020 1:7:5] "Saved with Remere's Map Editor 2.2"
+[5/1/2020 1:7:5] ""
+[5/1/2020 1:7:6] Duplicate uniqueId 2187
+[5/1/2020 1:7:7] Duplicate uniqueId 9532
+[5/1/2020 1:7:28] > Loading time: 25.3 seconds.
+[5/1/2020 1:7:28] [Warning - Spawns::loadFromXml] Dragon ( 31198 / 31218 / 006 ) spawntime cannot be less or equal than 1 seconds.
+[5/1/2020 1:7:28] [Warning - Spawns::loadFromXml] Dragon ( 31198 / 31218 / 006 ) spawntime cannot be less or equal than 1 seconds.
+[5/1/2020 1:7:29] [Warning - Houses::loadFromXml] House entry not set for:  (489)
+[5/1/2020 1:7:29] > Parsing time: 0.908 seconds.
+[5/1/2020 1:7:31] > Synchronization time: 2.732 seconds.
+[5/1/2020 1:7:31] > Unserialization time: 0.01 seconds.
+[5/1/2020 1:7:31] >> Checking world type... Open PvP
+[5/1/2020 1:7:31] >> Starting to dominate the world... done.
+[5/1/2020 1:7:31] >> Initializing game state and binding services...
+[5/1/2020 1:7:32] > Global IP address(es): 34.95.175.83
+[5/1/2020 1:7:32] > Local IP address(es): 10.158.0.5	
+[5/1/2020 1:7:32] > Bound ports: 7171	7172	
+[5/1/2020 1:7:32] >> Everything smells good, server is starting up...
+[5/1/2020 1:7:33] >> TORMENTA OT server Online!
+
+[5/1/2020 1:9:42] GOD OTserv has logged in.
