@@ -1,0 +1,7 @@
+Comando para buildar ./configure --enable-mysql --enable-server-diag
+Depois só rodar ./build.sh
+
+
+Para funcionar temos que usar a openssl 1.0.2, para isso tem que build from source ele.
+Depois disso vai dar um erro na hora de rodar o build.sh, falando sobre libcrypto.a undefed refence to symol dl close @ glibc. ...
+basta ir no Makefile e adicionar o -ldl junto com o -lcrypto e tal
